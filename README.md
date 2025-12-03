@@ -31,7 +31,8 @@ The system is built as a modern web application with a clear separation of conce
 -   **Async Processing**: Generating multiple images is compute-intensive. We implemented asynchronous processing in FastAPI to ensure the server remains responsive while heavy AI tasks are running.
 
 ## 6. Visual Proof
-*(Add screenshots of the application UI and examples of generated images here)*
+
+You can find all the screenshots of the app interface in the screenshots folder.
 
 ## 7. How to Run
 

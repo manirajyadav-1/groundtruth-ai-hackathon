@@ -1,0 +1,62 @@
+{
+  "product_name": "cola drink",
+  "brand_tone": "youthful, energetic, and innovative",
+  "num_variants": 5,
+  "creatives": [
+    {
+      "id": 1,
+      "image_file": "creative_01.png",
+      "image_prompt": "A vibrant blue Pepsi cola can, covered in realistic condensation, sharply focused and professionally lit. It is captured mid-air, surrounded by an explosive, dynamic burst of abstract energy streaks and colorful powder clouds in electric blues, vibrant reds, and crisp whites. The background transitions from a deep, energetic blue to a lighter, glowing red at the center, creating a sense of movement and speed. Low angle shot, highlighting the can's powerful presence. Branded packaging is clear. High resolution, aesthetic, photorealistic, 8k, 4:5 aspect ratio, studio lighting with a playful glow.",
+      "caption": "Unleash your inner spark! ✨ Feel the electrifying rush with every sip. #PepsiVibes #EnergyUnleashed #TasteTheMoment",
+      "ad_copy": {
+        "headline": "Ignite Your Day. Feel the Fizz!",
+        "body": "Experience the exhilarating taste of Pepsi, designed to energize your spirit. Grab a cold one and fuel your next adventure!",
+        "cta": "Shop Now & Get Refreshed!"
+      }
+    },
+    {
+      "id": 2,
+      "image_file": "creative_02.png",
+      "image_prompt": "An eye-level, perfectly lit Pepsi cola can, vibrant blue with condensation droplets, positioned against a dramatically blurred, neon-lit cyberpunk city street at night. The can reflects subtle neon light streaks from the background in deep blues, purples, and electric pinks, but remains sharply defined. Clean composition, strong visual hierarchy, can is centered. Branded packaging visible. High resolution, aesthetic, cinematic lighting, photorealistic, 8k, 4:5 aspect ratio.",
+      "caption": "Future-forward flavor, iconic cool. 😎 Your city, your style, your Pepsi. #UrbanVibes #PepsiFuture #NightLife",
+      "ad_copy": {
+        "headline": "The Night Is Young. Stay Iconic.",
+        "body": "Step into the future with a timeless classic. Pepsi is the perfect companion for your urban adventures, day or night.",
+        "cta": "Discover More!"
+      }
+    },
+    {
+      "id": 3,
+      "image_file": "creative_03.png",
+      "image_prompt": "A pristine, dew-covered vibrant blue Pepsi cola can, main subject, caught in a dramatic, high-speed water splash. The water is clear, creating dynamic ripples and frozen droplets around the can, emphasizing extreme coldness and refreshment. The background is a clean, gradient icy blue transitioning to a brilliant white, highlighting the water's clarity. Close-up shot, slightly above eye-level, capturing intricate water details and condensation. Branded packaging clearly visible. High resolution, aesthetic, crisp studio lighting, photorealistic, 8k, 4:5 aspect ratio.",
+      "caption": "Dive into ultimate refreshment! 💦 The crisp, bold taste of Pepsi is just what you need to beat the heat. #StayCool #PepsiRefresh #Thirsty",
+      "ad_copy": {
+        "headline": "Crisp. Cold. Unmistakably Pepsi.",
+        "body": "Quench your thirst with the unparalleled refreshment of Pepsi. Every sip is a wave of invigorating cola flavor.",
+        "cta": "Grab Yours Today!"
+      }
+    },
+    {
+      "id": 4,
+      "image_file": "creative_04.png",
+      "image_prompt": "A top-down flat lay of a vibrant blue Pepsi cola can, glistening with condensation. The can is centrally placed on an abstract, playful background of large, overlapping geometric shapes in energetic primary colors: a bold red circle, a bright yellow triangle, and a deep blue square. The composition is clean and minimalist, yet visually striking. Soft, even studio lighting with subtle shadows for depth. Branded packaging is prominent. High resolution, aesthetic, photorealistic, 8k, 4:5 aspect ratio.",
+      "caption": "Pop art perfection! 🎨 Add a splash of color and a burst of flavor to your day with Pepsi. #PepsiArt #PlayfulVibes #ColorPop",
+      "ad_copy": {
+        "headline": "Taste the Art. Feel the Fizz.",
+        "body": "Inject some playful energy into your routine with the iconic taste of Pepsi. It's more than a drink, it's a statement.",
+        "cta": "Explore Flavor!"
+      }
+    },
+    {
+      "id": 5,
+      "image_file": "creative_05.png",
+      "image_prompt": "A sleek, vibrant blue Pepsi cola can, covered in delicate condensation, depicted in a futuristic, innovative setting. The can stands on a reflective, dark metallic surface, with subtle, glowing cyan and magenta lines emanating from beneath and around it, creating an ethereal, high-tech aura. The background is a minimalist dark space with soft, blurred futuristic light patterns. Eye-level shot, clean and sharp focus on the product, emphasizing its contours with a gentle, soft glow lighting. Branded packaging is clear. High resolution, aesthetic, photorealistic, 8k, 4:5 aspect ratio.",
+      "caption": "Innovate your taste. Experience the future of refreshment, today. ✨ #PepsiInnovation #FutureIsNow #GlowingTaste",
+      "ad_copy": {
+        "headline": "Future Taste Unlocked. Sip Innovation.",
+        "body": "Discover the next level of refreshment with Pepsi. It's a taste that's always evolving, always exhilarating.",
+        "cta": "Experience the Future!"
+      }
+    }
+  ]
+}
